@@ -6,9 +6,7 @@ In this study, we introduce a computational pipeline to quantify citation fideli
 
 ## Project Structure
 
-- `data/`: Processed datasets and annotation files  
+- `data/`: data sample  
 - `notebooks/`: Jupyter notebooks for exploratory analysis  
-- `src/`: All code scripts  
-  - `src/data/`: Data loading and preprocessing  
-- `requirements.txt`: Python dependencies  
+- `src/`: code scripts  
 - `README.md`: Project description and usage
